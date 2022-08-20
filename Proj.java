@@ -16,7 +16,7 @@ public class Proj {		// Program uses MySQL to insert and get information from a 
 	{
 		String url = "jdbc:mysql://localhost:3306/Bank"; //change these parameters to match your SQL database...
 		String username = "root";
-		String password = "nanarocks";
+		String password = "*********";
 		
 		
 		HashMap<String,String> data = new HashMap<String,String>();
@@ -80,7 +80,7 @@ public class Proj {		// Program uses MySQL to insert and get information from a 
 		
 		String url = "jdbc:mysql://localhost:3306/Bank";
 		String username = "root";
-		String password = "nanarocks"; 
+		String password = "*********"; 
 
 		 Connection connection = null;
 		
